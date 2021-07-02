@@ -4,6 +4,8 @@
 
 This is the code repository for [Flutter for Beginners](https://www.packtpub.com/mobile/flutter-for-beginners?utm_source=github&utm_medium=repository&utm_campaign=9781788996082), published by Packt.
 
+Other Resources : Flutter Cookbook (https://flutter.dev/docs/cookbook); Write Your First Flutter App (https://flutter.dev/docs/get-started/codelab);
+
 **An introductory guide to building cross-platform mobile applications with Flutter and Dart 2**
 
 ## What is this book about?
